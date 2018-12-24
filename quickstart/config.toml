@@ -1,0 +1,6 @@
+title = "My New Hugo Site"
+baseurl = "http://example.org/"
+languageCode = "en-us"
+# theme = "default"
+theme = "ananke"  # has error with this version
+#theme = "firstaf"
