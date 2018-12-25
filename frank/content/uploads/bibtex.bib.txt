@@ -1,3 +1,0 @@
-% The bibtex data of latex2html
-% please rename it as bibtex.bib 
-%   to use it in LaTeX document
