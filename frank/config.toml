@@ -3,8 +3,8 @@ title = "Andrew U. Frank"
 copyright = "Copyright &copy; 2017 - Andrew U. Frank"
 #canonifyurls = true
 languageCode = "en-us"
-#theme = "kiera"
-theme = "lithium"
+theme = "kiera"
+#theme = "lithium"
 
 
 paginate = 3
