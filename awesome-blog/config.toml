@@ -1,3 +1,32 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+baseurl = "https://www.example.org/"
+title = "Kiera"
+copyright = "Copyright &copy; 2017 - Andrew U. Frank"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Andrew U. Frank"
+    github = "andrewufrank"
+#    gitlab = ""
+    linkedin = "andrewufrank"
+    facebook = ""
+#    twitter = ""
+#    instagram = ""
+
+[params]
+    tagline = "em.o.Univ.Prof. TU Wien"
+
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    url = "/posts/"
