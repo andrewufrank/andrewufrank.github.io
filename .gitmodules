@@ -1,0 +1,3 @@
+[submodule "frank/themes/lithium"]
+	path = frank/themes/lithium
+	url = https://github.com/jrutheiser/hugo-lithium-theme
